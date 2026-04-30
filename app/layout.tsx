@@ -29,7 +29,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sanket Nandurkar — Portfolio",
+  title: "SN's Portfolio",
   description:
     "Final-year Computer Engineering student specialising in Full Stack Development, Backend Engineering, and AI/ML integration. Proficient in Python, Node.js, FastAPI, and React.js.",
 };
